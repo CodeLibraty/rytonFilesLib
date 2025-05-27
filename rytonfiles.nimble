@@ -11,7 +11,6 @@ requires "nim >= 1.6.0"
 requires "regex >= 0.20.0"
 
 # Metadata
-keywords      = @["files", "filesystem", "cross-platform", "utilities", "io", "ryton"]
 categories    = @["System", "Utility"]
 
 
