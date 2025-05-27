@@ -10,7 +10,4 @@ skipDirs      = @["tests", "examples", "docs"]
 requires "nim >= 1.6.0"   
 requires "regex >= 0.20.0"
 
-# Metadata
-categories    = @["System", "Utility"]
-
 
